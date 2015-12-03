@@ -1,0 +1,1 @@
+Source code for solder station with PID temperature stabilization. Hardware is based on Atmega8 uC and mosfet power transistor. Power regulation uses phase correct PWM mode of AVR's Timer1.
